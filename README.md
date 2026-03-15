@@ -85,7 +85,8 @@ An interactive **Augmented Reality system** that allows users to try clothes vir
 ---
 
 <!-- Snake Animation -->
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andes3/Andes3/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>

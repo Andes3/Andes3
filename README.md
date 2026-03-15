@@ -1,52 +1,86 @@
-# Hi 👋 I'm Tarun
+# Hi 👋 I'm Tarun Gupta
 
-🚀 AI/ML Enthusiast | Python Developer | Deep Learning & Computer Vision
+🚀 **AI/ML Engineer | Machine Learning Enthusiast | Python Developer | Computer Vision**
 
-I enjoy building intelligent systems and solving real-world problems using Artificial Intelligence.
-Currently exploring Machine Learning, Deep Learning, and Data Structures while working on practical projects.
+I am passionate about building intelligent systems using **Machine Learning, Deep Learning, and Artificial Intelligence**.
+I enjoy solving real-world problems through data-driven approaches and developing AI applications that create real impact.
 
----
-
-## 🔧 Tech Stack
-
-* **Languages:** Python, C++
-* **AI/ML:** Machine Learning, Deep Learning, Computer Vision
-* **Libraries:** PyTorch, OpenCV, NumPy, Pandas
-* **Tools:** Git, GitHub, VS Code
+Currently focused on **Machine Learning, Deep Learning, Computer Vision, and Data Structures & Algorithms**, while continuously building practical AI projects and exploring advanced research areas.
 
 ---
 
-## 📌 Current Focus
+# 🔧 Tech Stack
 
-* Deep Learning Projects
-* Data Structures & Algorithms
-* AI Research & Real-world Applications
+### 👨‍💻 Programming Languages
+
+* **Python**
+* **C++**
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+
+### 📚 Libraries & Frameworks
+
+* **PyTorch**
+* **OpenCV**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+
+### 🛠 Tools & Platforms
+
+* **Git**
+* **GitHub**
+* **VS Code**
+* **Google Colab**
 
 ---
 
-## 📂 Featured Projects
+# 🎯 Current Focus
 
-* Crowd Density Estimation and Overcrowding Detection
-* Indian Accent Speech Recognition
-* AR/VR Virtual Dressing Room
+* Advanced **Machine Learning Projects**
+* **Deep Learning & Computer Vision**
+* **Data Structures & Algorithms**
+* AI Research & Real-World AI Applications
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+### 📌 Crowd Density Estimation & Overcrowding Detection
+
+AI-based system that analyzes crowd density using computer vision techniques to detect overcrowding in public spaces.
+
+### 📌 Indian Accent Speech Recognition
+
+Speech recognition system focused on improving transcription accuracy for **Indian-accented English** using modern deep learning models.
+
+### 📌 AR/VR Virtual Dressing Room
+
+An interactive **Augmented Reality system** that allows users to try clothes virtually using computer vision and 3D rendering.
+
+---
+
+# 📊 GitHub Stats
 
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andes3\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Andes3\&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-* GitHub: https://github.com/Andes3
+* 💻 **GitHub:** https://github.com/Andes3
+* 🔗 **LinkedIn:** [www.linkedin.com/in/tarun-gupta-44888b250](http://www.linkedin.com/in/tarun-gupta-44888b250)
 
 ---
 
@@ -55,9 +89,3 @@ Currently exploring Machine Learning, Deep Learning, and Data Structures while w
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andes3/Andes3/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
